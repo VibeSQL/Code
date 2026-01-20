@@ -1,12 +1,12 @@
 
 
-# SQL Server & PowerShell Scripts
+# SQL Server, BASH & PowerShell Scripts
 
-This repository contains a collection of personal scripts for SQL Server administration and management using PowerShell and T-SQL.
+This repository contains a collection of personal scripts for SQL Server and Linux administration using PowerShell, BASH and T-SQL.
 
 ## Purpose
 
-These scripts are tools I've created to simplify common SQL Server DBA tasks. They're shared here in case they might help others manage and administer their SQL Server environments.
+These scripts are tools I've created to simplify common SQL Server DBA and Linux admin tasks. They're shared here in case they might help others manage and administer their environments.
 
 ## What's Included
 
