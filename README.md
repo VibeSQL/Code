@@ -19,7 +19,7 @@ These scripts are tools I've created to simplify common SQL Server DBA tasks. Th
 ```
 Powershell/    - PowerShell scripts for SQL Server automation
 TSQL/          - T-SQL query scripts
-bash/          -  useful scripts
+bash/          - Useful scripts
 
 ```
 
