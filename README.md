@@ -12,12 +12,15 @@ These scripts are tools I've created to simplify common SQL Server DBA tasks. Th
 
 - **PowerShell Scripts** - Automation scripts for batch operations across multiple SQL Server instances
 - **T-SQL Scripts** - Reusable query snippets for direct execution in SQL Server Management Studio or Azure Data Studio
+- **bash Scripts** - Random bits of code that might be useful 
 
 ## Structure
 
 ```
 Powershell/    - PowerShell scripts for SQL Server automation
 TSQL/          - T-SQL query scripts
+bash/          -  useful scripts
+
 ```
 
 ## Usage
